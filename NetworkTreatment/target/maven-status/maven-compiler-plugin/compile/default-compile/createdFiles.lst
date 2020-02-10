@@ -1,0 +1,7 @@
+cm\wilnzi\networktreatment\Logger.class
+cm\wilnzi\networktreatment\validator\Validator.class
+cm\wilnzi\networktreatment\encodingmanagement\IEncodingManagement.class
+cm\wilnzi\networktreatment\encodingmanagement\EncodingManagement.class
+cm\wilnzi\networktreatment\fabricator\Fabricator.class
+cm\wilnzi\networktreatment\validator\IValidator.class
+cm\wilnzi\networktreatment\ResponseElement.class
