@@ -1,0 +1,6 @@
+cm\wilnzi\secvote\backend\mvc\model\DataBaseConnectionManager.class
+cm\wilnzi\secvote\backend\services\core\AbstractWebService.class
+cm\wilnzi\secvote\backend\services\core\CountingWebService.class
+cm\wilnzi\secvote\backend\mvc\model\AbstractManager.class
+cm\wilnzi\secvote\backend\services\WebServicesStarter.class
+cm\wilnzi\secvote\backend\management\counting\CountingManagement.class
